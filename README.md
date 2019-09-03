@@ -1,1 +1,1 @@
-# LearningSQL
+# SQL Assignment
